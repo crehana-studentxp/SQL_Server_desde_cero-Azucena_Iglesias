@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/crehana-studentxp/react_fundamentos-dulcinea_pena">
+  <a href="https://github.com/crehana-studentxp/SQL_Server_desde_cero-Azucena_Iglesias">
     <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
